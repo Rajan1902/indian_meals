@@ -1,4 +1,4 @@
-import React, {useContext} from 'react'
+import React from 'react'
 import classes from "./Header.module.css"
 import Meals from '../../assets/Meals.jpg'
 import CartButton from './CartButton'
